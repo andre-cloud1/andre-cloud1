@@ -1,6 +1,6 @@
 # 👋 Hi, I'm André Vinicius  
 
-💼 Former Business Manager | ☁️ Cloud & FinOps Enthusiast | 🚀 Future Cloud Architect  
+💼 Business Owner & Cloud Enthusiast | ☁️ Cloud AWS | 💰 FinOps | ⚙️ DevOps | 🚀 Future Cloud Architect  
 
 ---
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -13,7 +13,8 @@
 - ☁️ **Cloud Computing**: AWS fundamentals (EC2, S3, IAM, VPC), Solution Architecture & Security  
 - 💰 **FinOps & Observability**: Cost optimization, KPIs, and financial accountability in the cloud  
 - ⚙️ **DevOps Culture**: Automation, CI/CD, Git/GitHub, Infrastructure as Code (IaC)  
-
+- **Networking & Linux**: Basic administration, shell scripting, system monitoring  
+- **Programming**: JavaScript, Python fundamentals
 ---
 
 ## 📊 GitHub Stats
@@ -25,7 +26,9 @@
 ## 🌍 About Me
 - ✈️ Passionate about traveling, cultures, and gastronomy  
 - ⚽ Loyal supporter of my favorite football team  
-- 📚 Lifelong learner, always exploring new technologies  
+- 📚 Lifelong learner, always exploring new technologies
+
+---
 
 ---
 
