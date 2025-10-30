@@ -3,6 +3,11 @@
 💼 Former Business Manager | ☁️ Cloud & FinOps Enthusiast | 🚀 Future Cloud Architect  
 
 ---
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![FinOps](https://img.shields.io/badge/FinOps-4B0082?style=for-the-badge&logo=google-analytics&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-0A66C2?style=for-the-badge&logo=azuredevops&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IaC](https://img.shields.io/badge/IaC-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ## 🚀 Focus Areas
 - ☁️ **Cloud Computing**: AWS fundamentals (EC2, S3, IAM, VPC), Solution Architecture & Security  
