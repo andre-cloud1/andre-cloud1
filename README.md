@@ -21,54 +21,39 @@
 
 Here are some highlight scenarios from my journey in the AWS Re/Start program, where I solved real-world cloud infrastructure challenges:
 
-💰 FinOps: Cost Optimization & Rightsizing
+
+  💰 **FinOps: Cost Optimization & Rightsizing** | [Link](./lab-189-cost-optimization/) |
 
 Challenge: An existing legacy application was running on over-provisioned resources, generating unnecessary monthly costs.
-
 Solution: Conducted a cost analysis using AWS Pricing Calculator. Performed Rightsizing (downscaling from t2.small to t2.micro) and Decommissioning of unused local databases after migrating to RDS.
-
 Result: Validated application performance stability while significantly reducing the estimated monthly bill.
-
 Tech Stack: EC2, CloudWatch, AWS Pricing Calculator, Linux Administration.
 
-🏗️ Infrastructure as Code (IaC) with CloudFormation
+  🏗️ **Infrastructure as Code (IaC) with CloudFormation** | [Link](./lab-190-cloudformation-basics/) |
 
 Challenge: Manual provisioning of infrastructure was error-prone and not scalable.
-
 Solution: Developed YAML templates to define the entire network stack (VPC, Subnets, Internet Gateways). Managed the full stack lifecycle (Create, Update, Delete) and used Change Sets to preview impacts before applying updates.
-
 Tech Stack: AWS CloudFormation, YAML, EC2, S3.
 
-⚖️ High Availability & Auto Scaling (CLI Driven)
+  ⚖️ **High Availability & Auto Scaling (CLI Driven)** | [Link](./lab-175-auto-scaling/) |
 
 Challenge: The web application needed to handle variable traffic loads without crashing or wasting resources during low-traffic periods.
-
 Solution: Implemented an Application Load Balancer (ALB) distributing traffic across multiple AZs. Configured an Auto Scaling Group with Launch Templates and Dynamic Scaling Policies (CPU > 70%) entirely via AWS CLI.
-
 Tech Stack: AWS CLI, Auto Scaling Groups, ELB (ALB), CloudWatch Alarms, Bash Scripting.
 
-🛡️ Secure Network Architecture (VPC Design)
+  🛡️ **Secure Network Architecture (VPC Design)** | [Link](./lab-180-vpc-config/) |
 
 Challenge: Designing a network that isolates sensitive backend resources from the public internet.
-
 Solution: Architected a custom VPC with public and private subnets. Deployed a Bastion Host for secure SSH management and a NAT Gateway to allow private instances to access internet updates without incoming exposure.
-
 Tech Stack: VPC, Route Tables, NAT Gateway, Internet Gateway, Security Groups (Chaining).
-
-
----
-## 📊 GitHub Stats
-![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=andre-cloud1&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-cloud1&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌍 About Me
 - ✈️ Passionate about traveling, cultures, and gastronomy  
-- ⚽ Loyal supporter of my favorite football team  
+- ⚽ I practice sports like playing soccer and skateboarding
+- 💼 I organize a football team
 - 📚 Lifelong learner, always exploring new technologies
-
----
 
 ---
 
