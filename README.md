@@ -13,8 +13,8 @@
 - ☁️ **Cloud Computing**: AWS fundamentals (EC2, S3, IAM, VPC), Solution Architecture & Security  
 - 💰 **FinOps & Observability**: Cost optimization, KPIs, and financial accountability in the cloud  
 - ⚙️ **DevOps Culture**: Automation, CI/CD, Git/GitHub, Infrastructure as Code (IaC)  
-- **Networking & Linux**: Basic administration, shell scripting, system monitoring  
-- **Programming**: JavaScript, Python fundamentals
+- 🐧**Networking & Linux**: Basic administration, shell scripting, system monitoring  
+- **Programming**:Python 
 ---
 
 ## 📊 GitHub Stats
