@@ -31,6 +31,8 @@ Atualmente buscando oportunidades de Estágio ou posições Junior em Cloud, Fin
 
 Disponível para trabalhos em São Paulo em formato: Hibrido, Remoto e Presencial.
 Inglês em desenvolvimento constante.
+
+
 ---
 
 ## 🌍 About Me
