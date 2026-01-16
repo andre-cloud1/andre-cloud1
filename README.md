@@ -17,36 +17,20 @@
 - 🐍 **Programming Python**: Automation Scripts, AWS SDK (Boto3), Serverless, Data Handling
 ---
 
-🏆 Featured Projects (Hands-on Labs)
+Meu objetivo é transformar a complexidade da nuvem em eficiência financeira e operacional para grandes empresas.
 
-Here are some highlight scenarios from my journey in the AWS Re/Start program, where I solved real-world cloud infrastructure challenges:
+Recentemente, concluí o programa AWS re/Start, onde desenvolvi habilidades práticas em Linux, Python, Redes e Segurança. Continuando fazendo projetos práticos com a turma dos Descomplicando AWS da LinuxTips. Sou um AWS Certified Cloud Practitioner e atualmente aprofundo meus conhecimentos através do Bacharelado em Sistemas de Informação e da finalização do Bacharelado em Administração.
 
+O que eu trago para o time:
 
-  💰 **FinOps: Cost Optimization & Rightsizing** | [Link](./lab-189-cost-optimization/) |
+Visão Híbrida: Capacidade de traduzir necessidades de negócio (ADM) em soluções técnicas escaláveis (TI).
+Foco em Eficiência: Mentalidade voltada para a otimização de custos e governança em nuvem (FinOps).
+Mão na Massa: Experiência prática com ambientes AWS, automação via CLI e administração de sistemas Linux.
 
-Challenge: An existing legacy application was running on over-provisioned resources, generating unnecessary monthly costs.
-Solution: Conducted a cost analysis using AWS Pricing Calculator. Performed Rightsizing (downscaling from t2.small to t2.micro) and Decommissioning of unused local databases after migrating to RDS.
-Result: Validated application performance stability while significantly reducing the estimated monthly bill.
-Tech Stack: EC2, CloudWatch, AWS Pricing Calculator, Linux Administration.
+Atualmente buscando oportunidades de Estágio ou posições Junior em Cloud, FinOps ou Infraestrutura, visando contribuir para a agilidade e economia de escala de operações globais.
 
-  🏗️ **Infrastructure as Code (IaC) with CloudFormation** | [Link](./lab-190-cloudformation-basics/) |
-
-Challenge: Manual provisioning of infrastructure was error-prone and not scalable.
-Solution: Developed YAML templates to define the entire network stack (VPC, Subnets, Internet Gateways). Managed the full stack lifecycle (Create, Update, Delete) and used Change Sets to preview impacts before applying updates.
-Tech Stack: AWS CloudFormation, YAML, EC2, S3.
-
-  ⚖️ **High Availability & Auto Scaling (CLI Driven)** | [Link](./lab-175-auto-scaling/) |
-
-Challenge: The web application needed to handle variable traffic loads without crashing or wasting resources during low-traffic periods.
-Solution: Implemented an Application Load Balancer (ALB) distributing traffic across multiple AZs. Configured an Auto Scaling Group with Launch Templates and Dynamic Scaling Policies (CPU > 70%) entirely via AWS CLI.
-Tech Stack: AWS CLI, Auto Scaling Groups, ELB (ALB), CloudWatch Alarms, Bash Scripting.
-
-  🛡️ **Secure Network Architecture (VPC Design)** | [Link](./lab-180-vpc-config/) |
-
-Challenge: Designing a network that isolates sensitive backend resources from the public internet.
-Solution: Architected a custom VPC with public and private subnets. Deployed a Bastion Host for secure SSH management and a NAT Gateway to allow private instances to access internet updates without incoming exposure.
-Tech Stack: VPC, Route Tables, NAT Gateway, Internet Gateway, Security Groups (Chaining).
-
+Disponível para trabalhos em São Paulo em formato: Hibrido, Remoto e Presencial.
+Inglês em desenvolvimento constante.
 ---
 
 ## 🌍 About Me
