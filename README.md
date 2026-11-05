@@ -1,6 +1,6 @@
 # 👋 Hi, I'm André Vinicius  
 
-💼 Business Owner & Cloud Enthusiast | ☁️ AWS Certified Cloud Practitioner | 💰 FinOps | ⚙️ DevOps | 🚀 Future Cloud Architect  
+💼 Business Owner & Cloud Enthusiast | ☁️ AWS Certified Cloud Practitioner | 💰 FinOps Certified Practitioner | ⚙️ DevOps | 🚀 Future Cloud Architect  
 
 ---
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -19,17 +19,17 @@
 
 Meu objetivo é transformar a complexidade da nuvem em eficiência financeira e operacional para grandes empresas.
 
-Recentemente, concluí o programa AWS re/Start, onde desenvolvi habilidades práticas em Linux, Python, Redes e Segurança. Continuando fazendo projetos práticos com a turma dos Descomplicando AWS da LinuxTips. Sou um AWS Certified Cloud Practitioner e atualmente aprofundo meus conhecimentos através do Bacharelado em Sistemas de Informação e da finalização do Bacharelado em Administração.
+Recentemente, concluí o programa AWS re/Start, onde desenvolvi habilidades práticas em Linux, Python, Redes e Segurança. Continuando fazendo projetos práticos  com  a turma Programa de Empregabilidade em 
+Operador de Data Center  e Suporte de TI da Generation Brasil. Sou um AWS Cloud e FinOps Certified  Practitioner e atualmente aprofundo meus conhecimentos através do Bacharelado em Engenharia de Software com ênfase em cloud e da finalização do Bacharelado em Administração.
 
 O que eu trago para o time:
 
 Visão Híbrida: Capacidade de traduzir necessidades de negócio (ADM) em soluções técnicas escaláveis (TI).
 Foco em Eficiência: Mentalidade voltada para a otimização de custos e governança em nuvem (FinOps).
-Mão na Massa: Experiência prática com ambientes AWS, automação via CLI e administração de sistemas Linux.
+Mão na Massa: Experiência prática com ambientes AWS, automação via CLI e administração de sistemas Linux e redes.
 
-Atualmente buscando oportunidades de Estágio ou posições Junior em Cloud, FinOps ou Infraestrutura, visando contribuir para a agilidade e economia de escala de operações globais.
+ABusco oportunidades de Estágio ou posições de nível Júnior nas frentes de Infraestrutura de TI, Operação de Data Center, NOC, Suporte de TI ou Cloud Computing na região de São Paulo.
 
-Disponível para trabalhos em São Paulo em formato: Hibrido, Remoto e Presencial.
 Inglês em desenvolvimento constante.
 
 
